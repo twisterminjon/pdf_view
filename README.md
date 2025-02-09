@@ -45,10 +45,10 @@ docker build -t pdf_view .
 
 2. Run the container:
 ```bash
-docker run -p 5173:5173 pdf_view
+docker run -p 4173:4173 pdf_view
 ```
 
-The application will be available at `http://localhost:5173`
+The application will be available at `http://localhost:4173`
 
 ## Available Scripts
 
